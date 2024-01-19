@@ -1,4 +1,4 @@
-package school.java.person;
+package school.java.person.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

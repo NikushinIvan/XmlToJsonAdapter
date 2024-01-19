@@ -1,4 +1,4 @@
-package school.java.client;
+package school.java.client.model;
 
 public class ClientFindInfo {
     private Dul dul;

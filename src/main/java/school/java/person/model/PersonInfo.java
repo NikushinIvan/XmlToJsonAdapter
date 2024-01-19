@@ -1,6 +1,7 @@
-package school.java.person;
+package school.java.person.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import school.java.person.model.FindPersonInfo;
 
 public class PersonInfo {
     @JsonProperty("FindPersonInfo")

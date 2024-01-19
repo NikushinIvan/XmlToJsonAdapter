@@ -1,7 +1,8 @@
-package school.java.client;
+package school.java.client.model;
 
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
+import school.java.client.model.ClientFindInfo;
 
 @JacksonXmlRootElement(localName = "clientInfo")
 public class ClientInfo {

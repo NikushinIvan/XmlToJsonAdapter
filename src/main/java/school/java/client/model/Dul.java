@@ -1,4 +1,4 @@
-package school.java.client;
+package school.java.client.model;
 
 public class Dul {
     private int documentType;
